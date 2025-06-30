@@ -1,0 +1,177 @@
+item_id,rarity,category,families,fusion_qty
+SHARD_GROVE,common,forest,elemental,2
+SHARD_MIST,common,water,elemental,2
+SHARD_FLASH,common,combat,elemental,2
+SHARD_PHANPYRE,common,water,phantom
+SHARD_COD,common,water,"tropical fish"
+SHARD_PHANFLARE,common,forest,phantom
+SHARD_NIGHT_SQUID,common,water,squid
+SHARD_LAPIS_ZOMBIE,common,combat,lapis
+SHARD_HIDEONLEAF,common,forest,shulker
+SHARD_VERDANT,common,water,"tropical fish"
+SHARD_CHILL,common,combat,
+SHARD_SEA_ARCHER,common,water,
+SHARD_VORACIOUS_SPIDER,common,combat,
+SHARD_HIDEONGIFT,common,combat,shulker
+SHARD_BIRRIES,common,water,
+SHARD_TANK_ZOMBIE,common,combat,
+SHARD_CROW,common,forest,bird
+SHARD_TADGANG,common,water,"amphibian, frog",2
+SHARD_ZEALOT,common,combat,
+SHARD_CORALOT,common,water,axolotl
+SHARD_HARPY,common,combat,bird
+SHARD_MUDWORM,common,forest,
+SHARD_GOLDEN_GHOUL,common,combat,
+SHARD_AZURE,common,combat,"tropical fish"
+SHARD_BEZAL,common,combat,
+SHARD_YOG,common,combat,
+SHARD_BOREAL_OWL,common,forest,bird
+SHARD_NEWT,common,water,"lizard, reptile",2
+SHARD_MINER_ZOMBIE,common,combat,
+
+SHARD_BRAMBLE,uncommon,forest,elemental,2
+SHARD_TIDE,uncommon,water,elemental,2
+SHARD_QUAKE,uncommon,combat,elemental,2
+SHARD_SPARROW,uncommon,forest,bird
+SHARD_GOLDFIN,uncommon,water,
+SHARD_TROGLOBYTE,uncommon,combat,"cave dweller"
+SHARD_HIDEONCAVE,uncommon,forest,shulker
+SHARD_SALAMANDER,uncommon,water,"lizard,reptile",2
+SHARD_CUBOA,uncommon,combat,"reptile,serpent",2
+SHARD_PEST,uncommon,forest,bug
+SHARD_MOSSYBIT,uncommon,water,"amphibian,frog",2
+SHARD_RAIN_SLIME,uncommon,combat,
+SHARD_SEER,uncommon,combat,
+SHARD_HERON,uncommon,forest,bird
+SHARD_OBSIDIAN_DEFENDER,uncommon,combat,
+SHARD_SALMON,uncommon,water,
+SHARD_VIPER,uncommon,combat,"reptile,serpent",2
+SHARD_PRAYING_MANTIS,uncommon,forest,bug
+SHARD_ZOMBIE_SOLDIER,uncommon,combat,
+SHARD_BAMBULEAF,uncommon,forest,panda
+SHARD_SYCOPHANT,uncommon,combat,
+SHARD_SEAGULL,uncommon,forest,bird
+SHARD_ENT,uncommon,water,
+SHARD_SOUL_OF_THE_ALPHA,uncommon,combat,
+SHARD_MOCHIBEAR,uncommon,forest,panda
+SHARD_MAGMA_SLUG,uncommon,water,
+SHARD_FLAMING_SPIDER,uncommon,combat,
+SHARD_KIWI,uncommon,forest,bird
+SHARD_BRUISER,uncommon,combat,
+SHARD_STRIDERSURFER,uncommon,water,drowned
+SHARD_RANA,uncommon,combat,"amphibian,frog",2
+SHARD_TERMITE,uncommon,forest,bug
+SHARD_SYLVAN,rare,forest,elemental,2
+SHARD_CASCADE,rare,water,elemental,2
+SHARD_BOLT,rare,combat,elemental,2
+SHARD_BAMBLOOM,rare,forest,panda
+SHARD_TOAD,rare,water,"amphibian,frog",2
+SHARD_GLACITE_WALKER,rare,combat,
+SHARD_BEACONMITE,rare,forest,bug
+SHARD_LIZARD_KING,rare,water,"lizard,reptile",2
+SHARD_PYTHON,rare,combat,"reptile,serpent",2
+SHARD_INVISIBUG,rare,forest,bug
+SHARD_PIRANHA,rare,water,"treasure fish"
+SHARD_HIDEONGEON,rare,forest,shulker
+SHARD_LAPIS_SKELETON,rare,combat,lapis
+SHARD_CROPEETLE,rare,forest,bug
+SHARD_DROWNED,rare,combat,
+SHARD_STAR_SENTRY,rare,combat,
+SHARD_HIDEONDRA,rare,forest,shulker
+SHARD_ABYSSAL_LANTERN,rare,water,"treasure fish"
+SHARD_ARACHNE,rare,combat,spider
+SHARD_BITBUG,rare,forest,bug
+SHARD_REVENANT,rare,combat,
+SHARD_SILENTDEPTH,rare,water,"treasure fish"
+SHARD_SKELETOR,rare,combat,
+SHARD_THYST,rare,combat,"cave dweller"
+SHARD_QUARTZFANG,rare,combat,"cave dweller"
+SHARD_HIDEONRING,rare,forest,shulker
+SHARD_SNOWFIN,rare,water,"treasure fish"
+SHARD_KADA_KNIGHT,rare,combat,
+SHARD_CARROT_KING,rare,water,
+SHARD_WITHER_SPECTER,rare,combat,
+SHARD_MATCHO,rare,combat,
+SHARD_LADYBUG,rare,forest,bug
+SHARD_LUMISQUID,rare,water,squid
+SHARD_CROCODILE,rare,combat,"croco,reptile",2
+SHARD_BULLFROG,rare,water,"amphibian,frog",2
+SHARD_DREADWING,rare,forest,phantom
+SHARD_JOYDIVE,rare,water,
+SHARD_STALAGMIGHT,rare,combat,"cave dweller"
+SHARD_FUNGLOOM,rare,forest,"cave dweller"
+SHARD_EEL,rare,water,"amphibian,eel",2
+SHARD_KING_COBRA,rare,combat,"reptile,serpent",2
+SHARD_LAVA_FLAME,rare,water,
+SHARD_DRACONIC,rare,combat,dragon
+SHARD_FALCON,rare,forest,bird
+SHARD_INFERNO_KOI,rare,water,"treasure fish"
+SHARD_WITHER,rare,combat,dragon
+SHARD_GECKO,rare,forest,"reptile,scaled",2
+SHARD_TERRA,epic,forest,elemental,2
+SHARD_CRYO,epic,water,elemental,2
+SHARD_AERO,epic,combat,elemental,2
+SHARD_PANDARAI,epic,forest,panda
+SHARD_LEVIATHAN,epic,water,"lizard,reptile",2
+SHARD_ALLIGATOR,epic,combat,"croco,reptile",2
+SHARD_FENLORD,epic,water,"amphibian,frog",2
+SHARD_BASILISK,epic,combat,"reptile,serpent",2
+SHARD_IGUANA,epic,forest,"reptile,scaled",2
+SHARD_MORAY_EEL,epic,water,"amphibian,eel",2
+SHARD_THORN,epic,combat,
+SHARD_LUNAR_MOTH,epic,forest,bug
+SHARD_FIRE_EEL,epic,water,"amphibian,eel",2
+SHARD_BAL,epic,combat,"cave dweller"
+SHARD_HIDEONSACK,epic,forest,shulker
+SHARD_WATER_HYDRA,epic,water,
+SHARD_FLARE,epic,combat,
+SHARD_SEA_EMPEROR,epic,water,
+SHARD_PRINCE,epic,combat,
+SHARD_KOMODO_DRAGON,epic,forest,"reptile,scaled",2
+SHARD_MIMIC,epic,combat,
+SHARD_SHELLWISE,epic,water,"reptile,turtle",2
+SHARD_BARBARIAN_DUKE_X,epic,combat,
+SHARD_TOUCAN,epic,forest,bird
+SHARD_HELLWISP,epic,combat,
+SHARD_CAIMAN,epic,combat,"croco,reptile",2
+SHARD_FIREFLY,epic,forest,bug
+SHARD_SEA_SERPENT,epic,water,"amphibian,eel,serpent",2
+SHARD_GHOST,epic,combat,"cave dweller"
+SHARD_XYZ,epic,forest,
+SHARD_LEATHERBACK,epic,water,"reptile,turtle",2
+SHARD_CAVERNSHADE,epic,combat,"cave dweller"
+SHARD_DRAGONFLY,epic,forest,bug
+
+SHARD_TENEBRIS,legendary,forest,elemental,2
+SHARD_BLIZZARD,legendary,water,elemental,2
+SHARD_TEMPEST,legendary,combat,elemental,2
+SHARD_CHAMELEON,legendary,forest,reptile,2
+SHARD_TIAMAT,legendary,combat,reptile,2
+SHARD_WYVERN,legendary,forest,"reptile,scaled",2
+SHARD_TORTOISE,legendary,water,"reptile,turtle",2
+SHARD_ENDSTONE_PROTECTOR,legendary,combat,
+SHARD_NAGA,legendary,water,"amphibian,eel",2
+SHARD_LAPIS_CREEPER,legendary,combat,
+SHARD_WARTYBUG,legendary,forest,bug
+SHARD_SPIKE,legendary,water,
+SHARD_KRAKEN,legendary,combat,demon
+SHARD_TAURUS,legendary,water,
+SHARD_DAEMON,legendary,combat,demon
+SHARD_MOLTENFISH,legendary,water,demon
+SHARD_SHINYFISH,legendary,water,
+SHARD_ANANKE,legendary,combat,"bird,demon"
+SHARD_HIDEONBOX,legendary,forest,shulker
+SHARD_LORD_JAWBUS,legendary,water,
+SHARD_BURNINGSOUL,legendary,combat,demon
+SHARD_CINDERBAT,legendary,forest,
+SHARD_MEGALITH,legendary,water,"reptile,turtle",2
+SHARD_POWER_DRAGON,legendary,combat,dragon
+SHARD_CONDOR,legendary,forest,bird
+SHARD_SUN_FISH,legendary,water,
+SHARD_APEX_DRAGON,legendary,combat,dragon
+SHARD_DODO,legendary,forest,bird
+SHARD_JORMUNG,legendary,combat,"demon,dragon"
+SHARD_ETHERDRAKE,legendary,combat,"demon,dragon"
+SHARD_GALAXY_FISH,legendary,water,
+SHARD_MOLTHORN,legendary,combat,"demon,dragon"
+SHARD_STARBORN,legendary,combat,elemental,2
